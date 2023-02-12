@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>APP on 凡君 Blog</title>
+    <link>https://yeahyeah0606.github.io/tags/app/</link>
+    <description>Recent content in APP on 凡君 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 02 Feb 2023 11:07:47 +0600</lastBuildDate><atom:link href="https://yeahyeah0606.github.io/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>冰箱超人【冰箱控管 APP】大學畢業專題</title>
+      <link>https://yeahyeah0606.github.io/portfolio/superman/</link>
+      <pubDate>Thu, 02 Feb 2023 11:07:47 +0600</pubDate>
+      
+      <guid>https://yeahyeah0606.github.io/portfolio/superman/</guid>
+      <description>以超人為概念，超人能夠守護地球人們的平安， 而【冰箱超人】能夠確保食材們的新鮮，讓使用者安心。 功能簡介 ◆ 以 Java 語言在 Android Studio 上開發 APP</description>
+    </item>
+    
+  </channel>
+</rss>

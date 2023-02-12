@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASP.net on 凡君 Blog</title>
+    <link>https://yeahyeah0606.github.io/tags/asp.net/</link>
+    <description>Recent content in ASP.net on 凡君 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 25 Jan 2023 11:07:47 +0600</lastBuildDate><atom:link href="https://yeahyeah0606.github.io/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[C#專題] MusFit健身房 前台官方網站 &#43; 後台管理系統 </title>
+      <link>https://yeahyeah0606.github.io/portfolio/musfit/</link>
+      <pubDate>Wed, 25 Jan 2023 11:07:47 +0600</pubDate>
+      
+      <guid>https://yeahyeah0606.github.io/portfolio/musfit/</guid>
+      <description>「MusFit 不只是健身房，更是享受生活的地方。」 Mus 為 Must 的諧音，Fit 則是運動，代表我們非常熱愛運動的精神。 功能簡介 &amp;amp; 程式碼 ◆ 前台官網提供較適合女性的課程、相關知識以及專業的服務 (https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

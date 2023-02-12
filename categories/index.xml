@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 凡君 Blog</title>
+    <link>https://yeahyeah0606.github.io/categories/</link>
+    <description>Recent content in Categories on 凡君 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 02 Feb 2023 11:07:47 +0600</lastBuildDate><atom:link href="https://yeahyeah0606.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>作品集</title>
+      <link>https://yeahyeah0606.github.io/categories/%E4%BD%9C%E5%93%81%E9%9B%86/</link>
+      <pubDate>Thu, 02 Feb 2023 11:07:47 +0600</pubDate>
+      
+      <guid>https://yeahyeah0606.github.io/categories/%E4%BD%9C%E5%93%81%E9%9B%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie</title>
+      <link>https://yeahyeah0606.github.io/categories/movie/</link>
+      <pubDate>Mon, 30 Jan 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://yeahyeah0606.github.io/categories/movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://yeahyeah0606.github.io/categories/music/</link>
+      <pubDate>Thu, 15 Dec 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://yeahyeah0606.github.io/categories/music/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
