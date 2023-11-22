@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T03:47:48.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uRDluRBx2UOMzb0YqTQE" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-22T03:55:36.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Tp22rgwuHq-kSHY_pUYh" version="22.1.3" type="github" pages="4">
   <diagram name="查詢" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -463,6 +463,12 @@
             <mxPoint x="780" y="330" as="sourcePoint" />
             <mxPoint x="830" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Nw8Z1GmiW7UpdeUuCyGD-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;註：如果是自行設定&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;成功通報記號自動寫Y&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-110" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Vt614cgCBMpHfVX2xzI-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="180" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
