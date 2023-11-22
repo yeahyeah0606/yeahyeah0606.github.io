@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T05:53:21.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8dPOAoUN144PZhAT9KrP" version="22.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-22T06:15:04.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8vPOTN-RH2vwU7eic5Nx" version="22.1.3" type="github" pages="5">
   <diagram name="查詢" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,13 +148,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oIIlploPoPYVGfda5TJn-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;被查詢&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="120" height="50" as="geometry" />
+          <mxGeometry x="30" y="20" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tD_ngec6LgnPbNnejALv-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;宥稜&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="110" width="80" height="50" as="geometry" />
+          <mxGeometry x="67" y="100" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="R_vBmMJ-mkAL87Fn-o_a-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;URL2 檔案&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="80" width="270" height="110" as="geometry" />
+        <mxCell id="R_vBmMJ-mkAL87Fn-o_a-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;URL2 檔案&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 通路&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp; A&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp; B&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="310" height="130" as="geometry" />
         </mxCell>
         <mxCell id="R_vBmMJ-mkAL87Fn-o_a-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tD_ngec6LgnPbNnejALv-1" target="R_vBmMJ-mkAL87Fn-o_a-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -163,12 +163,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="87DKSXG-iWMGE0NrwMBL-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;產出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="147" y="101" width="60" height="40" as="geometry" />
+          <mxGeometry x="147" y="90" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdJJMOHuvmqQ4putd6Vw-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;凡君[XXXX]程式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="240" width="150" height="50" as="geometry" />
+          <mxGeometry x="290" y="240" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="K50zkZ4xStyIB2KJWPWU-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;COBOL 有記錄兩年內設定約轉日期的檔案&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路&amp;nbsp; &amp;nbsp;轉出帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;約定日期&amp;nbsp; &amp;nbsp;成功通報&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp;A&amp;nbsp; &amp;nbsp; &amp;nbsp; 8110000135482679212&amp;nbsp; &amp;nbsp; 1121118&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Y&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp;A&amp;nbsp; &amp;nbsp; &amp;nbsp; 8220000487154657891&amp;nbsp; &amp;nbsp; 1121118&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Y&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp;B&amp;nbsp; &amp;nbsp; &amp;nbsp; 8220000487154657891&amp;nbsp; &amp;nbsp; 1121119&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Y&lt;br&gt;&amp;nbsp; &amp;nbsp; ......&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+        <mxCell id="K50zkZ4xStyIB2KJWPWU-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;COBOL 有記錄兩年內設定約轉日期的檔案&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路&amp;nbsp; &amp;nbsp;轉出帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;約定日期&amp;nbsp; &amp;nbsp;成功通報&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp;A&amp;nbsp; &amp;nbsp; &amp;nbsp; 8220000487154657891&amp;nbsp; &amp;nbsp; 1121118&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Y&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp;B&amp;nbsp; &amp;nbsp; &amp;nbsp; 8220000487154657891&amp;nbsp; &amp;nbsp; 1121119&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Y&lt;br&gt;&amp;nbsp; &amp;nbsp; ......&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
           <mxGeometry x="670" y="175" width="660" height="170" as="geometry" />
         </mxCell>
         <mxCell id="K50zkZ4xStyIB2KJWPWU-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;URL1 檔案 [成功]&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;帳戶狀態&amp;nbsp; &amp;nbsp; &amp;nbsp;通路 2年count&amp;nbsp; 30天count&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;01&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; A&amp;nbsp; &amp;nbsp; &amp;nbsp; XX15&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; XX07&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;01&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; B&amp;nbsp; &amp;nbsp; &amp;nbsp; XX12&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; XX02&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;01&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; C&amp;nbsp; &amp;nbsp; &amp;nbsp; XX12&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; XX02&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
@@ -800,11 +800,53 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ppgEkNvmNgT49eQIPGbq" name="第 5 页">
+  <diagram id="ppgEkNvmNgT49eQIPGbq" name="被通報">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qfG7HF6cEe9-vjzbX3Eh-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;被通報&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i5DdQM7I6PbdrPvbiD7f-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;宥稜&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i5DdQM7I6PbdrPvbiD7f-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;URL2 檔案&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 通路&amp;nbsp; &amp;nbsp;轉出帳號&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp; &amp;nbsp;A&amp;nbsp; &amp;nbsp; &amp;nbsp; 812&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;0000000123456789&lt;br&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp; &amp;nbsp;A&amp;nbsp; &amp;nbsp; &amp;nbsp; 812&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;0000000123456789&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="155" width="510" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="i5DdQM7I6PbdrPvbiD7f-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;產出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i5DdQM7I6PbdrPvbiD7f-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;凡君[XXXX]程式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i5DdQM7I6PbdrPvbiD7f-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="i5DdQM7I6PbdrPvbiD7f-1" target="i5DdQM7I6PbdrPvbiD7f-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yh8boNg5tHC6qrdOlepa-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="i5DdQM7I6PbdrPvbiD7f-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWoo6-8q3GwRW9Srztn3-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;COBOL 有記錄兩年內設定約轉日期的檔案&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路&amp;nbsp; &amp;nbsp;轉出帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;約定日期&amp;nbsp; &amp;nbsp;成功通報&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;8110000135482679212&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;A&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;1470000000430010606&lt;/font&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;1121118&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Y&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;8110000135482679212&amp;nbsp; &amp;nbsp;B&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;1470000000430010606&lt;/font&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;1121118&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Y&lt;br&gt;&amp;nbsp; &amp;nbsp; ......&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="660" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hWoo6-8q3GwRW9Srztn3-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i5DdQM7I6PbdrPvbiD7f-4" target="hWoo6-8q3GwRW9Srztn3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="490" as="sourcePoint" />
+            <mxPoint x="540" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hWoo6-8q3GwRW9Srztn3-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;寫入&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="330" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
