@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T02:02:39.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Pe1lbL56TKBTUXn9Hh9U" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T02:21:33.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Vnw2QsJZx4GYsz0F7CZ7" version="22.1.3" type="github" pages="2">
   <diagram name="查詢" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,6 +105,41 @@
         </mxCell>
         <mxCell id="AnH1oupO0DnIHsFvmvpk-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;1.接到檔案後，判斷如果[&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2年count]或[30天count]大於風險閾值，視窗提醒行員要關懷&lt;br&gt;&amp;nbsp; &amp;nbsp; 客戶小心詐騙&lt;br&gt;&amp;nbsp;2.若客戶還是同意要設定該轉入帳號為約轉帳號，寫檔OOOO(cobol端)，格式可如下&lt;br&gt;&amp;nbsp; &amp;nbsp; 轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路&amp;nbsp; 同意記號&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; A&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&lt;br&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; B&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&lt;br&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; C&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 或者&lt;br&gt;&amp;nbsp; &amp;nbsp; 轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路&amp;nbsp; 同意記號 通路&amp;nbsp; 同意記號&amp;nbsp; 通路&amp;nbsp; 同意記號&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; A&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;B&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;C&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 或者&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路A記號&amp;nbsp; 通路B記號&amp;nbsp; &amp;nbsp;通路B記號&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; &amp;nbsp; &amp;nbsp; Y&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Y&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Y&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-720" y="730" width="690" height="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mEsjwV_ezP2OFXAFKCF-" name="被查詢">
+    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oIIlploPoPYVGfda5TJn-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;被查詢&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tD_ngec6LgnPbNnejALv-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;宥稜&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R_vBmMJ-mkAL87Fn-o_a-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;URL1 檔案&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="R_vBmMJ-mkAL87Fn-o_a-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tD_ngec6LgnPbNnejALv-1" target="R_vBmMJ-mkAL87Fn-o_a-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="230" as="sourcePoint" />
+            <mxPoint x="410" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87DKSXG-iWMGE0NrwMBL-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;產出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="147" y="101" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gdJJMOHuvmqQ4putd6Vw-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;凡君[XXXX]程式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K50zkZ4xStyIB2KJWPWU-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;COBOL 有記錄兩年內設定約轉日期的檔案&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路&amp;nbsp; &amp;nbsp;轉出帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;約定日期&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp;A&amp;nbsp; &amp;nbsp; &amp;nbsp; 8110000135482679212&amp;nbsp; &amp;nbsp; 1121118&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp;A&amp;nbsp; &amp;nbsp; &amp;nbsp; 8220000487154657891&amp;nbsp; &amp;nbsp; 1121118&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; &amp;nbsp;B&amp;nbsp; &amp;nbsp; &amp;nbsp; 8220000487154657891&amp;nbsp; &amp;nbsp; 1121119&lt;br&gt;&amp;nbsp; &amp;nbsp; ......&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="60" width="580" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="K50zkZ4xStyIB2KJWPWU-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;URL2 檔案&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路 2年count&amp;nbsp; 30天count&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp;&amp;nbsp;A&amp;nbsp; &amp;nbsp; &amp;nbsp; XX15&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; XX07&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp;&amp;nbsp;B&amp;nbsp; &amp;nbsp; &amp;nbsp; XX12&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; XX02&lt;br&gt;&amp;nbsp; &amp;nbsp;1470000000430002630&amp;nbsp; C&amp;nbsp; &amp;nbsp; &amp;nbsp; XX12&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; XX02&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="420" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
