@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T03:40:07.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iCt7_5ditIOamnzqwojT" version="22.1.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-11-23T03:53:25.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0__0bWn6jADug6f9EMuV" version="22.1.3" type="github" pages="9">
   <diagram name="查詢" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2113" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -634,6 +634,9 @@
         </mxCell>
         <mxCell id="MO_OlhxWWrBBmUTGomoD-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;財金公司&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="464.25" y="680" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FosVaJy7cv4KRR7CfFmu-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;被通報&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
