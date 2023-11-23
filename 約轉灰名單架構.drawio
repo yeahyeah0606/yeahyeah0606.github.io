@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T01:31:34.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tVaDhluSta5ewAxSHCW5" version="22.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-23T01:33:55.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GOyj8wQteyVjdE1m5tFw" version="22.1.3" type="github" pages="6">
   <diagram name="查詢" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
             <mxPoint x="50" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnH1oupO0DnIHsFvmvpk-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;URL1 檔案&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&lt;br&gt;&amp;nbsp; &amp;nbsp;8120000000123456789&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="120" width="270" height="110" as="geometry" />
+        <mxCell id="AnH1oupO0DnIHsFvmvpk-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;URL1 檔案&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路&lt;br&gt;&amp;nbsp; &amp;nbsp;8120000000123456789&amp;nbsp; &amp;nbsp; &amp;nbsp; A&lt;br&gt;&amp;nbsp; &amp;nbsp;8120000000123456789&amp;nbsp; &amp;nbsp; &amp;nbsp; B&lt;br&gt;&amp;nbsp; &amp;nbsp;8120000000123456789&amp;nbsp; &amp;nbsp; &amp;nbsp; C&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="100" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="AnH1oupO0DnIHsFvmvpk-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AnH1oupO0DnIHsFvmvpk-3" target="AnH1oupO0DnIHsFvmvpk-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,9 +64,9 @@
             <mxPoint x="222.5" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnH1oupO0DnIHsFvmvpk-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="AnH1oupO0DnIHsFvmvpk-22" edge="1">
+        <mxCell id="AnH1oupO0DnIHsFvmvpk-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.608;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="AnH1oupO0DnIHsFvmvpk-22" edge="1" source="AnH1oupO0DnIHsFvmvpk-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="235" as="sourcePoint" />
+            <mxPoint x="223" y="290" as="sourcePoint" />
             <mxPoint x="50" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -95,7 +95,7 @@
           <mxGeometry x="-220" y="255" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnH1oupO0DnIHsFvmvpk-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;傳給&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="217.5" y="285" width="60" height="40" as="geometry" />
+          <mxGeometry x="262.5" y="290" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AnH1oupO0DnIHsFvmvpk-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;處理&amp;nbsp;&lt;br&gt;&lt;br&gt;1.接到檔案後，&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;視窗呈現轉入帳號、2年內次數、30天內次數，並提醒如果超過閾值，&lt;br&gt;&amp;nbsp; &amp;nbsp;行員要關懷客戶小心詐騙&lt;br&gt;&amp;nbsp;2.若客戶還是同意要設定該轉入帳號為約轉帳號，寫檔OOOO(cobol端)，格式可如下&lt;br&gt;&amp;nbsp; &amp;nbsp; 轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路&amp;nbsp; 同意記號&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; A&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&lt;br&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; B&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&lt;br&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; C&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 或者&lt;br&gt;&amp;nbsp; &amp;nbsp; 轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路&amp;nbsp; 同意記號 通路&amp;nbsp; 同意記號&amp;nbsp; 通路&amp;nbsp; 同意記號&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; A&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;B&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;C&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 或者&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路A記號&amp;nbsp; 通路B記號&amp;nbsp; &amp;nbsp;通路C記號&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; &amp;nbsp; &amp;nbsp; Y&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Y&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Y&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-122.5" y="760" width="690" height="350" as="geometry" />
