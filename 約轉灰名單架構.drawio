@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T03:23:52.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5IX1ZqzyjbGmOPltlC0N" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-27T03:26:57.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zNSCLi-46_6Wuulju-QA" version="22.1.4" type="github" pages="6">
   <diagram name="查詢" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
           <mxGeometry x="600" y="445" width="130" height="55" as="geometry" />
         </mxCell>
         <mxCell id="-Gx86QIrhAI9Tks81i4U-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;財金公司&lt;br&gt;&amp;nbsp; &amp;nbsp;回傳的API內容&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
-          <mxGeometry x="775.5" y="562" width="150" height="100" as="geometry" />
+          <mxGeometry x="775.5" y="534.5" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gQwxhCL1PpS9jhV44YJ9-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;財金公司&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="447.5" width="105" height="50" as="geometry" />
@@ -267,25 +267,25 @@
           <mxGeometry x="600" y="370" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J1tgJXQmUHiCx32D9bVW-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;回傳&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="690" y="570" width="60" height="40" as="geometry" />
+          <mxGeometry x="690" y="542.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CR6XweCoZzUHSBjzvv1V-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp;URL2 檔案[成功取消通報]&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路&amp;nbsp; &amp;nbsp;轉出帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 結果&lt;br&gt;&amp;nbsp; &amp;nbsp;8110000135482679212&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;A&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1470000000430010606&amp;nbsp; &amp;nbsp; &amp;nbsp;01&lt;br&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp;8110000135482679212&amp;nbsp; &amp;nbsp;B&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;1470000000430010606&amp;nbsp; &amp;nbsp; &amp;nbsp;01&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
-          <mxGeometry x="450" y="690" width="550" height="160" as="geometry" />
+          <mxGeometry x="450" y="662.5" width="550" height="160" as="geometry" />
         </mxCell>
         <mxCell id="o9ynRyV6cpaRjai_lYE6-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;產出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="582" y="641" width="60" height="40" as="geometry" />
+          <mxGeometry x="582" y="613.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o9ynRyV6cpaRjai_lYE6-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;檢查是否&lt;br&gt;成功通報&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="242.5" y="885" width="165" height="120" as="geometry" />
+          <mxGeometry x="242.5" y="857.5" width="165" height="120" as="geometry" />
         </mxCell>
         <mxCell id="o9ynRyV6cpaRjai_lYE6-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;否&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="327" y="1000" width="40" height="40" as="geometry" />
+          <mxGeometry x="327" y="972.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o9ynRyV6cpaRjai_lYE6-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;暫時結束?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="265" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="265" y="1012.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o9ynRyV6cpaRjai_lYE6-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;凡君&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[QT01]新程式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="265" y="737" width="120" height="66" as="geometry" />
+          <mxGeometry x="265" y="709.5" width="120" height="66" as="geometry" />
         </mxCell>
         <mxCell id="FxaHsTnXdr86vi3HHSWu-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="430" width="40" height="40" as="geometry" />
@@ -315,18 +315,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PWgAuQHUCx930rzGgIYH-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;宥稜&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="547" y="587" width="80" height="50" as="geometry" />
+          <mxGeometry x="547" y="559.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PWgAuQHUCx930rzGgIYH-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-Gx86QIrhAI9Tks81i4U-1" target="PWgAuQHUCx930rzGgIYH-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="550" as="sourcePoint" />
-            <mxPoint x="840" y="500" as="targetPoint" />
+            <mxPoint x="790" y="522.5" as="sourcePoint" />
+            <mxPoint x="840" y="472.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PWgAuQHUCx930rzGgIYH-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.45;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gQwxhCL1PpS9jhV44YJ9-1" target="-Gx86QIrhAI9Tks81i4U-1" edge="1">
+        <mxCell id="PWgAuQHUCx930rzGgIYH-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.45;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-Gx86QIrhAI9Tks81i4U-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="530" as="sourcePoint" />
-            <mxPoint x="840" y="500" as="targetPoint" />
+            <mxPoint x="843" y="500" as="sourcePoint" />
+            <mxPoint x="840" y="472.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PWgAuQHUCx930rzGgIYH-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="TRkvp7LGG22LcEMcKuv3-4" edge="1">
@@ -337,36 +337,36 @@
         </mxCell>
         <mxCell id="PWgAuQHUCx930rzGgIYH-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="CR6XweCoZzUHSBjzvv1V-1" target="o9ynRyV6cpaRjai_lYE6-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="890" as="sourcePoint" />
-            <mxPoint x="780" y="840" as="targetPoint" />
+            <mxPoint x="730" y="862.5" as="sourcePoint" />
+            <mxPoint x="780" y="812.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PWgAuQHUCx930rzGgIYH-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.249;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PWgAuQHUCx930rzGgIYH-1" target="CR6XweCoZzUHSBjzvv1V-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="890" as="sourcePoint" />
-            <mxPoint x="780" y="840" as="targetPoint" />
+            <mxPoint x="730" y="862.5" as="sourcePoint" />
+            <mxPoint x="780" y="812.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PWgAuQHUCx930rzGgIYH-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;回傳&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="390" y="732" width="60" height="40" as="geometry" />
+          <mxGeometry x="390" y="704.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PWgAuQHUCx930rzGgIYH-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="o9ynRyV6cpaRjai_lYE6-11" target="o9ynRyV6cpaRjai_lYE6-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="890" as="sourcePoint" />
-            <mxPoint x="780" y="840" as="targetPoint" />
+            <mxPoint x="730" y="862.5" as="sourcePoint" />
+            <mxPoint x="780" y="812.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PWgAuQHUCx930rzGgIYH-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="o9ynRyV6cpaRjai_lYE6-6" target="o9ynRyV6cpaRjai_lYE6-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="990" as="sourcePoint" />
-            <mxPoint x="325" y="1040" as="targetPoint" />
+            <mxPoint x="580" y="962.5" as="sourcePoint" />
+            <mxPoint x="325" y="1012.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PK1AfE_qs71AOS9QMgDf-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;寫檔紀錄qt01的log&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="1" vertex="1">
-          <mxGeometry x="40" y="885" width="160" height="90" as="geometry" />
+          <mxGeometry x="40" y="857.5" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZH6_rpqhptjbzcyXGuSV-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;是&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="202.5" y="900" width="40" height="40" as="geometry" />
+          <mxGeometry x="202.5" y="872.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RnO12G19xKDZO7n47HqA-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;不用取消通報&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="442.5" width="150" height="60" as="geometry" />
@@ -379,24 +379,24 @@
         </mxCell>
         <mxCell id="RnO12G19xKDZO7n47HqA-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RnO12G19xKDZO7n47HqA-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="620" as="sourcePoint" />
-            <mxPoint x="460" y="680" as="targetPoint" />
+            <mxPoint x="245" y="475" as="sourcePoint" />
+            <mxPoint x="460" y="652.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RnO12G19xKDZO7n47HqA-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;產出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="267" y="562" width="60" height="40" as="geometry" />
+          <mxGeometry x="280" y="569.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MHpkhAui8vRg9gnwfBqM-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=160;entryDy=60;entryPerimeter=0;" parent="1" source="o9ynRyV6cpaRjai_lYE6-6" target="PK1AfE_qs71AOS9QMgDf-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="232.5" y="950" as="sourcePoint" />
-            <mxPoint x="190" y="950" as="targetPoint" />
+            <mxPoint x="232.5" y="922.5" as="sourcePoint" />
+            <mxPoint x="190" y="922.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MHpkhAui8vRg9gnwfBqM-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; 註：結果可能為→ 01：通報完成&amp;nbsp; &amp;nbsp; 03：無此帳號&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 04：重複通報&amp;nbsp; &amp;nbsp; 05：無此交易通路&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;06：查無原約定帳號申請通報交易&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 98：通報失敗&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 99&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;：不用取消通報&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="450" y="875" width="480" height="125" as="geometry" />
+          <mxGeometry x="450" y="847.5" width="480" height="125" as="geometry" />
         </mxCell>
         <mxCell id="g99V4iptJa_U8YllVka--1" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: bold; font-size: 18px;&quot;&gt;&lt;br&gt;&amp;nbsp; &lt;b style=&quot;border-color: var(--border-color);&quot;&gt;◎&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;&quot;&gt;問如果當&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;天到 15:30 都沒有收到&amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; 回傳 成功通報 、 成功取消通報，&lt;br&gt;&amp;nbsp; &amp;nbsp; 要怎麼處理？&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; ◎每&lt;font style=&quot;&quot;&gt;天&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;15:30結束，做 [QT02]查詢&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 已設定跨行約定帳號未成功通報、&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 未成功取消通報列表？&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="1020" width="296.25" height="160" as="geometry" />
+          <mxGeometry x="407.5" y="992.5" width="296.25" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
