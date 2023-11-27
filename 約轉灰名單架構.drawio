@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T06:55:47.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ijvJbvWDuvk-K0tsjAa-" version="22.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-27T01:11:51.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9VRcpfJ16t4cq6m7voYJ" version="22.1.4" type="github" pages="6">
   <diagram name="查詢" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,8 +151,11 @@
             <mxPoint x="130" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NOObNCAEZyhcLFI4Tmoy-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; ←這個好像可以省，da01程式&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;直接撈qt01那份log就可以判斷&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="NOObNCAEZyhcLFI4Tmoy-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; ←這個好像可以省，da01程式&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;直接撈qt01那份log就可以判斷&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="210" y="915" width="290" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xcQAjlXza7PoB0jnr09Q-1" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; ◎請&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;業務部&amp;amp;數金部討論並決定風險閾值&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="190" y="750" width="350" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
