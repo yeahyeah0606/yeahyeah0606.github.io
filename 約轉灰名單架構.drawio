@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T03:26:57.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zNSCLi-46_6Wuulju-QA" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-27T03:27:11.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7jzfUpgpPy1p1nsEKBwa" version="22.1.4" type="github" pages="6">
   <diagram name="查詢" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -396,7 +396,7 @@
           <mxGeometry x="450" y="847.5" width="480" height="125" as="geometry" />
         </mxCell>
         <mxCell id="g99V4iptJa_U8YllVka--1" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-weight: bold; font-size: 18px;&quot;&gt;&lt;br&gt;&amp;nbsp; &lt;b style=&quot;border-color: var(--border-color);&quot;&gt;◎&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;&quot;&gt;問如果當&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;天到 15:30 都沒有收到&amp;nbsp; &lt;br&gt;&amp;nbsp; &amp;nbsp; 回傳 成功通報 、 成功取消通報，&lt;br&gt;&amp;nbsp; &amp;nbsp; 要怎麼處理？&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; ◎每&lt;font style=&quot;&quot;&gt;天&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;15:30結束，做 [QT02]查詢&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 已設定跨行約定帳號未成功通報、&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 未成功取消通報列表？&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="992.5" width="296.25" height="160" as="geometry" />
+          <mxGeometry x="421.88" y="992.5" width="296.25" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
