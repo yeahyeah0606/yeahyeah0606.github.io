@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T06:54:35.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Q6UW-ejGr95RSLlpGfdG" version="22.1.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-12-11T06:54:55.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cERHj48b0-3PuLrM6J7E" version="22.1.7" type="github" pages="7">
   <diagram name="查詢(舊版)" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
           <mxGeometry x="107" y="290" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;處理&amp;nbsp;&lt;br&gt;&lt;br&gt;1.接到檔案後，&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;視窗呈現轉入帳號、2年內次數、30天內次數，並提醒如果超過閾值，&lt;br&gt;&amp;nbsp; &amp;nbsp;行員要關懷客戶小心詐騙&lt;br&gt;&amp;nbsp;2.若客戶還是同意要設定該轉入帳號為約轉帳號，寫檔紀錄log(cobol端)，格式可如下&lt;br&gt;&amp;nbsp; &amp;nbsp; 轉入帳號&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;通路&amp;nbsp; 同意記號&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; A&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&lt;br&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; B&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&lt;br&gt;&amp;nbsp; &amp;nbsp; 8120000000123456789&amp;nbsp; C&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Y&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
-          <mxGeometry x="-289.25" y="632.5" width="690" height="235" as="geometry" />
+          <mxGeometry x="-653" y="552.5" width="690" height="235" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;如果失敗要間格&lt;br&gt;30分鐘再傳一次&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
           <mxGeometry x="157" y="382.5" width="150" height="60" as="geometry" />
@@ -316,55 +316,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; ←這個好像可以省，da01程式&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;直接撈qt01那份log就可以判斷&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
-          <mxGeometry x="50.75" y="775" width="290" height="75" as="geometry" />
+          <mxGeometry x="-313" y="695" width="290" height="75" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-39" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; ◎請&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;業務部&amp;amp;數金部討論並決定風險閾值&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
-          <mxGeometry x="30.75" y="610" width="350" height="60" as="geometry" />
+          <mxGeometry x="-333" y="530" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-40" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;DA01&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
-          <mxGeometry x="-278" y="935" width="105" height="50" as="geometry" />
+          <mxGeometry x="-641.75" y="855" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;輸入每筆約轉帳號時，&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;判斷是否當天已用&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[QT01]查詢過&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
-          <mxGeometry x="-146.75" y="880" width="213.75" height="160" as="geometry" />
+          <mxGeometry x="-510.5" y="800" width="213.75" height="160" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-43" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;DA01流程繼續，直到結束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
-          <mxGeometry x="-113" y="1070" width="147.5" height="60" as="geometry" />
+          <mxGeometry x="-476.75" y="990" width="147.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="U7dqJ0-CWYD5QjtBnwIO-1" source="U7dqJ0-CWYD5QjtBnwIO-40" target="U7dqJ0-CWYD5QjtBnwIO-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-83" y="830" as="sourcePoint" />
-            <mxPoint x="-33" y="780" as="targetPoint" />
+            <mxPoint x="-446.75" y="750" as="sourcePoint" />
+            <mxPoint x="-396.75" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="U7dqJ0-CWYD5QjtBnwIO-1" source="U7dqJ0-CWYD5QjtBnwIO-42" target="U7dqJ0-CWYD5QjtBnwIO-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-83" y="830" as="sourcePoint" />
-            <mxPoint x="-33" y="780" as="targetPoint" />
+            <mxPoint x="-446.75" y="750" as="sourcePoint" />
+            <mxPoint x="-396.75" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.093;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="U7dqJ0-CWYD5QjtBnwIO-1" source="U7dqJ0-CWYD5QjtBnwIO-19" target="U7dqJ0-CWYD5QjtBnwIO-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-83" y="830" as="sourcePoint" />
-            <mxPoint x="-33" y="780" as="targetPoint" />
+            <mxPoint x="-446.75" y="750" as="sourcePoint" />
+            <mxPoint x="-396.75" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
-          <mxGeometry x="-79" y="1036" width="40" height="40" as="geometry" />
+          <mxGeometry x="-442.75" y="956" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;繼續DA01？&lt;br&gt;還是甚麼流程？&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
-          <mxGeometry x="111.38" y="922.5" width="168.75" height="75" as="geometry" />
+          <mxGeometry x="-252.37" y="842.5" width="168.75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="U7dqJ0-CWYD5QjtBnwIO-1" source="U7dqJ0-CWYD5QjtBnwIO-42" target="U7dqJ0-CWYD5QjtBnwIO-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-83" y="930" as="sourcePoint" />
-            <mxPoint x="-33" y="880" as="targetPoint" />
+            <mxPoint x="-446.75" y="850" as="sourcePoint" />
+            <mxPoint x="-396.75" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
-          <mxGeometry x="65.75" y="927" width="40" height="40" as="geometry" />
+          <mxGeometry x="-298" y="847" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-51" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; ◎問&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;業務部如果[QT01]一直得不到&lt;br&gt;&amp;nbsp; &amp;nbsp; 查詢結果，要怎樣的流程？&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
-          <mxGeometry x="67" y="1016" width="293.75" height="60" as="geometry" />
+          <mxGeometry x="-296.75" y="936" width="293.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-52" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &lt;/b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;◎[&lt;/b&gt;&lt;b&gt;DA01] 前面要先有一個 [QT01]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;查詢跨行約定帳號風險閾值，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;業務部能改流程嗎？&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
           <mxGeometry x="-810" y="50" width="293.75" height="80" as="geometry" />
