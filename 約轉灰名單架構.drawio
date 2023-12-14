@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T08:10:04.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EjskSYXP7nspIGovR_Di" version="22.1.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-14T08:13:31.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EMF7cmYUkv9_CJ9OX080" version="22.1.8" type="github" pages="10">
   <diagram name="查詢(舊版)" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -876,7 +876,7 @@
         <mxCell id="WjsmiBTeaNnw83hpq-BA-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;查詢功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WjsmiBTeaNnw83hpq-BA-1">
           <mxGeometry x="-750" y="165" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WjsmiBTeaNnw83hpq-BA-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;輸入1~8筆&lt;br&gt;轉入帳號+&lt;br&gt;選好通路&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WjsmiBTeaNnw83hpq-BA-1">
+        <mxCell id="WjsmiBTeaNnw83hpq-BA-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;輸入1~多筆&lt;br&gt;轉入帳號+&lt;br&gt;選好通路&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WjsmiBTeaNnw83hpq-BA-1">
           <mxGeometry x="-477" y="150" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WjsmiBTeaNnw83hpq-BA-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WjsmiBTeaNnw83hpq-BA-1" source="WjsmiBTeaNnw83hpq-BA-3" target="WjsmiBTeaNnw83hpq-BA-42">
@@ -885,7 +885,7 @@
             <mxPoint x="-607" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WjsmiBTeaNnw83hpq-BA-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;處理&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp;1.&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;視窗呈現轉入帳號、2年內次數、30天內次數，並提醒如果超過閾值，&lt;br&gt;&amp;nbsp; &amp;nbsp; 行員要關懷客戶小心詐騙？還是要如何處理？&lt;br&gt;&amp;nbsp;2.若客戶還是同意要設定該轉入帳號為約轉帳號，寫檔紀錄？呈現報表的樣式？&lt;br&gt;&lt;br&gt;&amp;nbsp;3.行員自行決定是否要列印報表&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WjsmiBTeaNnw83hpq-BA-1">
+        <mxCell id="WjsmiBTeaNnw83hpq-BA-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;處理&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp;1.&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;視窗呈現轉入帳號、2年內次數、30天內次數，並提醒如果超過閾值，&lt;br&gt;&amp;nbsp; &amp;nbsp; 行員要關懷客戶小心詐騙？還是要如何處理？&lt;br&gt;&amp;nbsp;2.若客戶還是同意要設定該轉入帳號為約轉帳號，呈現報表的樣式？&lt;br&gt;&lt;br&gt;&amp;nbsp;3.是否要列印報表？客戶簽名留存？&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WjsmiBTeaNnw83hpq-BA-1">
           <mxGeometry x="-740" y="272.5" width="690" height="207.5" as="geometry" />
         </mxCell>
         <mxCell id="WjsmiBTeaNnw83hpq-BA-26" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; ◎請&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;業務部&amp;amp;數金部討論並決定風險閾值&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WjsmiBTeaNnw83hpq-BA-1">
@@ -940,7 +940,7 @@
           <mxGeometry x="-750" y="50" width="350.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WjsmiBTeaNnw83hpq-BA-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; ←這部分要等業務部決定&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WjsmiBTeaNnw83hpq-BA-1">
-          <mxGeometry x="-457" y="420" width="230" height="40" as="geometry" />
+          <mxGeometry x="-381.24" y="420" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WjsmiBTeaNnw83hpq-BA-42" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;輸入本行&lt;br&gt;轉出帳號&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WjsmiBTeaNnw83hpq-BA-1">
           <mxGeometry x="-599.75" y="150" width="110" height="80" as="geometry" />
