@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T09:35:08.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="C8saSM1aPesBBsFdEF-c" version="22.1.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-14T09:35:36.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mfXCV7xKGcF1P9WVJeIP" version="22.1.8" type="github" pages="10">
   <diagram name="查詢(舊版)" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -968,7 +968,7 @@
       <root>
         <mxCell id="NsA9ymHWHDWo9O7nhZal-0" />
         <mxCell id="NsA9ymHWHDWo9O7nhZal-1" parent="NsA9ymHWHDWo9O7nhZal-0" />
-        <mxCell id="NsA9ymHWHDWo9O7nhZal-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;取消通報(跨行)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NsA9ymHWHDWo9O7nhZal-1">
+        <mxCell id="NsA9ymHWHDWo9O7nhZal-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;取消通報&lt;br&gt;（跨行）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NsA9ymHWHDWo9O7nhZal-1">
           <mxGeometry x="40" y="40" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NsA9ymHWHDWo9O7nhZal-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;既有已生效or未生效約轉帳號&lt;b&gt;刪除&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NsA9ymHWHDWo9O7nhZal-1">
@@ -980,7 +980,7 @@
         <mxCell id="NsA9ymHWHDWo9O7nhZal-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;否&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NsA9ymHWHDWo9O7nhZal-1">
           <mxGeometry x="285" y="680" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NsA9ymHWHDWo9O7nhZal-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;暫時結束?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NsA9ymHWHDWo9O7nhZal-1">
+        <mxCell id="NsA9ymHWHDWo9O7nhZal-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;暫時結束？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NsA9ymHWHDWo9O7nhZal-1">
           <mxGeometry x="225" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NsA9ymHWHDWo9O7nhZal-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;【QT01】&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NsA9ymHWHDWo9O7nhZal-1">
