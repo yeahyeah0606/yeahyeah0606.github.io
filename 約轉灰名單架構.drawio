@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T01:53:38.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oUcazTdDPh6VZNcSw62P" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-18T01:57:08.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uBbZZQD1kvq6l4YrsQVc" version="22.1.11" type="github" pages="10">
   <diagram name="查詢(舊版)" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -227,7 +227,7 @@
       <root>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-0" />
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-1" parent="U7dqJ0-CWYD5QjtBnwIO-0" />
-        <mxCell id="U7dqJ0-CWYD5QjtBnwIO-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;輸入1~8筆&lt;br&gt;轉入帳號&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="U7dqJ0-CWYD5QjtBnwIO-1" vertex="1">
+        <mxCell id="U7dqJ0-CWYD5QjtBnwIO-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;輸入1至多筆&lt;br&gt;轉入帳號&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="U7dqJ0-CWYD5QjtBnwIO-1" vertex="1">
           <mxGeometry x="-280" y="135" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U7dqJ0-CWYD5QjtBnwIO-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="U7dqJ0-CWYD5QjtBnwIO-1" source="yrv3cCsnlVMlU4Yq-9kw-0" target="7SVvHP6TEyl271_lz7V7-0" edge="1">
@@ -393,7 +393,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WTJWd1q82BsqWL_5RCvh" name="取消通報(跨行)">
-    <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
