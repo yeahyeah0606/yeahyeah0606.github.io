@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T01:57:08.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uBbZZQD1kvq6l4YrsQVc" version="22.1.11" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-12-21T03:21:00.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BSwbo9nLofzhyse4FGku" version="22.1.11" type="github" pages="10">
   <diagram name="查詢(舊版)" id="aA_uW0eg3kEJU7qytOSy">
     <mxGraphModel dx="2261" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -374,9 +374,6 @@
         <mxCell id="X2ib2jTLdKSeR-EpabA7-0" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;◎除了立即回傳外，還要有&lt;br&gt;&amp;nbsp; &amp;nbsp;可以主動讓我們下載檔案&lt;br&gt;&amp;nbsp; &amp;nbsp;的功能&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="U7dqJ0-CWYD5QjtBnwIO-1" vertex="1">
           <mxGeometry x="-370" y="276.5" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X2ib2jTLdKSeR-EpabA7-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; ←這部分要等業務部決定&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="U7dqJ0-CWYD5QjtBnwIO-1" vertex="1">
-          <mxGeometry x="-94.87" y="740" width="230" height="75" as="geometry" />
-        </mxCell>
         <mxCell id="7SVvHP6TEyl271_lz7V7-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;輸入本行&lt;br&gt;轉出帳號&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="U7dqJ0-CWYD5QjtBnwIO-1" vertex="1">
           <mxGeometry x="-402.75" y="135" width="110" height="80" as="geometry" />
         </mxCell>
@@ -386,7 +383,7 @@
             <mxPoint x="-120" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrv3cCsnlVMlU4Yq-9kw-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;【QT01】查詢功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U7dqJ0-CWYD5QjtBnwIO-1">
+        <mxCell id="yrv3cCsnlVMlU4Yq-9kw-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;【QT01】查詢功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="U7dqJ0-CWYD5QjtBnwIO-1" vertex="1">
           <mxGeometry x="-574" y="150" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
